@@ -1,0 +1,7 @@
+{
+  "name": "StayHub",
+  "description": "Hệ thống quản lý chuỗi nhà trọ và căn hộ cho thuê hiện đại đa cơ sở với 4 vai trò, tự động hóa thanh toán SePay và tích hợp thông báo Zalo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
